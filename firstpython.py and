@@ -1,0 +1,2 @@
+dic1 = {"sausage": "hotdog"}
+print("sausage in " + dic1["sausage"])
